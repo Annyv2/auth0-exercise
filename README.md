@@ -8,7 +8,7 @@ Auth0's sample webapp was modified to achieve this. It was also slightly optimiz
 
 # Installation
 
-A `.env` file with my credentials is already provided, so run `pip install -r requirements.txt` to install the dependencies. Then, run `python server.py` and try calling http://localhost:3000/ Use the credentials provided in [Users](Users)
+A `.env` file with my credentials is already provided, so run `pip install -r requirements.txt` to install the dependencies. Then, run `python server.py` and try calling http://localhost:3000/. Please use the credentials provided in [Users](#users)
 
 # Management API
 
